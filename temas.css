@@ -1,0 +1,85 @@
+.contenedor{
+    width: 100%px;
+    height: 1400px;
+    background-color: rgb(13, 125, 139);
+}
+.encabezado{
+    width:100%;
+    height: 180px;
+    background-color: white;
+    text-align: center;
+    font-size: 40px;
+    color: rgb(21, 255, 0);
+}
+.menu{
+    width: 100%;
+    height: 80px;
+    background-color: white;
+    text-align: center;
+    font-size: 18px;
+    color: rgb(255, 0, 0);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+}
+.contenedor2{
+    width: 100%;
+    height: 1800px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+}
+.izquierdo{
+    width: 20%;
+    height: 2965px;
+    background-color: white;
+    font-size: 22px;
+    color: rgb(21, 255, 0);
+}
+.centro{
+    width: 60%;
+    height: 2965px;
+    background-color: white;
+    font-size: 20px;
+    color: rgb(21, 255, 0);
+}
+.derecho{
+    width: 20%;
+    height: 2965px;
+    background-color:  white;
+    font-size: 22px;
+    color: rgb(21, 255, 0);
+}
+.tecnologia{
+    width: 120px;
+    height: 78px;
+    background-color: rgb(21, 255, 0);
+    margin: 2px;
+}
+.ingles{
+    width: 120px;
+    height: 78px;
+    background-color: rgb(21, 255, 0);
+    margin: 2px;
+}
+.matematicas{
+    width: 120px;
+    height: 78px;
+    background-color: rgb(21, 255, 0);
+    margin: 2px 
+}
+.sociales{
+    width: 120px;
+    height: 78px;
+    background-color: rgb(21, 255, 0);
+    margin: 2px 
+}
+.biologia{ 
+     width: 120px;
+    height: 78px;
+    background-color: rgb(21, 255, 0);
+    margin: 2px 
+}
+.etica{  width: 120px;
+    height: 78px;
+    background-color: rgb(21, 255, 0);
+    margin: 2px
+}
