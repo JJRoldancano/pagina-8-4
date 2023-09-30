@@ -119,3 +119,27 @@
     text-align: center;
     color: rgb(255, 255, 255);
     }
+    .imagenmatematicas {
+        background-repeat: no-repeat;
+      
+        float: left;
+      
+        height: 340px;
+      
+        width: 880px;
+      
+        margin-left: 5px;
+      
+        margin-right: 5px;
+      
+        background-image: url("polinomios.gif");
+      }
+      
+      .textomatematicas {
+        text-align: justify;
+      
+        color: rgb(255, 255, 255);
+      
+        font-size: 25px;
+      }
+            
