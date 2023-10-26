@@ -142,4 +142,26 @@
       
         font-size: 25px;
       }
-            
+      .imageningles {
+        background-repeat: no-repeat;
+      
+        float: left;
+      
+        height: 530px;
+      
+        width: 700px;
+      
+        margin-left: 5px;
+      
+        margin-right: 5px;
+      
+        background-image: url("enfermedades.png");
+      }
+      
+      .textoingles {
+        text-align: justify;
+
+        font-size: 25px;
+        
+        color: black;
+      }
